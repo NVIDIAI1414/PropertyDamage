@@ -1,0 +1,4 @@
+### Visualising the statistics of property damage due to extreme weather
+Data on natural disaster events come from the National Oceanic and Atmospheric Administration’s National Climatic Data Center’s (NCDC) storm events database. This database reports county-level information on 48 different types of extreme weather events through 2015. While the storm events database includes data on several disaster types since the 1950s, for the vast majority of disaster types, data are only available starting in 1996. These data include the type of event, the date and time of the event, the number of direct and indirect fatalities and injuries caused by the event, and the dollar value of the associated property and crop damage.
+### Please see dashboard for final plots:
+[Dash.pdf](https://github.com/user-attachments/files/16575908/Dash.pdf)
